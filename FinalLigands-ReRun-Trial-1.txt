@@ -1,0 +1,5 @@
+Ligand: 25021 Value: -10.0
+Ligand: 32739 Value: -10.0
+Ligand: 26116 Value: -9.9
+Ligand: 25028 Value: -9.8
+Ligand: 32700 Value: -9.8
