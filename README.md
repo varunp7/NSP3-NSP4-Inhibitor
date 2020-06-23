@@ -3,3 +3,5 @@ These are the output files and corresponding log files for the final 5 ligands f
 
 
 Key:
+
+25028 - Ligand 2 - ZINC000072206568
